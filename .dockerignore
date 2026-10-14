@@ -1,0 +1,5 @@
+# Lo privado no entra en la imagen: la imagen de prod es exactamente lo que se publica.
+CLAUDE.md
+tests/privado/
+__pycache__/
+.pytest_cache/
